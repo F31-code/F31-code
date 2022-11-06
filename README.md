@@ -1,0 +1,3 @@
+- 👋 Hi, I’m F31-code aka F or F31 for short.
+- 📶 I’m interested in learning new things
+- 🤔 I’m currently working with [Common-Codes](https://github.com/Common-Codes)
